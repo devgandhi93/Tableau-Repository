@@ -1,0 +1,325 @@
+State,Region,Month,Rainfall
+Arunachal Pradesh,North-East,16-Jan-21,30.8
+Arunachal Pradesh,North-East,15-Feb-21,47.5
+Arunachal Pradesh,North-East,17-Mar-21,97.5
+Arunachal Pradesh,North-East,16-Apr-21,287.1
+Arunachal Pradesh,North-East,16-May-21,238.9
+Arunachal Pradesh,North-East,15-Jun-21,637.9
+Arunachal Pradesh,North-East,15-Jul-21,329.3
+Arunachal Pradesh,North-East,14-Aug-21,595.5
+Arunachal Pradesh,North-East,13-Sep-21,374.2
+Arunachal Pradesh,North-East,13-Oct-21,65.2
+Arunachal Pradesh,North-East,12-Nov-21,33.8
+Arunachal Pradesh,North-East,12-Dec-21,29.8
+Assam,North-East,20-Jan-21,13.4
+Assam,North-East,19-Feb-21,15.5
+Assam,North-East,21-Mar-21,37.5
+Assam,North-East,20-Apr-21,250.9
+Assam,North-East,20-May-21,332.5
+Assam,North-East,19-Jun-21,558.5
+Assam,North-East,19-Jul-21,300.1
+Assam,North-East,18-Aug-21,590.9
+Assam,North-East,17-Sep-21,279.9
+Assam,North-East,17-Oct-21,62.6
+Assam,North-East,16-Nov-21,14
+Assam,North-East,16-Dec-21,15.2
+Nagaland,North-East,13-Jan-21,14.4
+Nagaland,North-East,12-Feb-21,14.2
+Nagaland,North-East,14-Mar-21,21.6
+Nagaland,North-East,13-Apr-21,253.5
+Nagaland,North-East,13-May-21,198.3
+Nagaland,North-East,12-Jun-21,283.9
+Nagaland,North-East,12-Jul-21,413.6
+Nagaland,North-East,11-Aug-21,334.2
+Nagaland,North-East,10-Sep-21,255.9
+Nagaland,North-East,10-Oct-21,118.7
+Nagaland,North-East,9-Nov-21,3.9
+Nagaland,North-East,9-Dec-21,10
+Sikkim,East,21-Jan-21,15.7
+Sikkim,East,20-Feb-21,15
+Sikkim,East,22-Mar-21,64.8
+Sikkim,East,21-Apr-21,149
+Sikkim,East,21-May-21,304.6
+Sikkim,East,20-Jun-21,508.2
+Sikkim,East,20-Jul-21,393.3
+Sikkim,East,19-Aug-21,626.6
+Sikkim,East,18-Sep-21,354.9
+Sikkim,East,18-Oct-21,53.6
+Sikkim,East,17-Nov-21,23.8
+Sikkim,East,17-Dec-21,9
+West Bengal,East,24-Jan-21,12.9
+West Bengal,East,23-Feb-21,5.5
+West Bengal,East,25-Mar-21,19.3
+West Bengal,East,24-Apr-21,88.7
+West Bengal,East,24-May-21,57.6
+West Bengal,East,23-Jun-21,247.2
+West Bengal,East,23-Jul-21,633.1
+West Bengal,East,22-Aug-21,260.6
+West Bengal,East,21-Sep-21,164
+West Bengal,East,21-Oct-21,32.7
+West Bengal,East,20-Nov-21,2.3
+West Bengal,East,20-Dec-21,6.3
+Odisha,East,14-Jan-21,15.1
+Odisha,East,13-Feb-21,3.3
+Odisha,East,15-Mar-21,10.5
+Odisha,East,14-Apr-21,67.6
+Odisha,East,14-May-21,32.6
+Odisha,East,13-Jun-21,238.6
+Odisha,East,13-Jul-21,294.8
+Odisha,East,12-Aug-21,264
+Odisha,East,11-Sep-21,237
+Odisha,East,11-Oct-21,24.7
+Odisha,East,10-Nov-21,6.2
+Odisha,East,10-Dec-21,15.6
+Jharkhand,East,16-Jan-21,12.2
+Jharkhand,East,15-Feb-21,2.6
+Jharkhand,East,17-Mar-21,21.6
+Jharkhand,East,16-Apr-21,55.5
+Jharkhand,East,16-May-21,25.5
+Jharkhand,East,15-Jun-21,183.3
+Jharkhand,East,15-Jul-21,429.7
+Jharkhand,East,14-Aug-21,240.7
+Jharkhand,East,13-Sep-21,85.1
+Jharkhand,East,13-Oct-21,22.7
+Jharkhand,East,12-Nov-21,0.2
+Jharkhand,East,12-Dec-21,2.7
+Bihar,East,23-Jan-21,12.8
+Bihar,East,22-Feb-21,1.8
+Bihar,East,24-Mar-21,27.2
+Bihar,East,23-Apr-21,38.7
+Bihar,East,23-May-21,39.5
+Bihar,East,22-Jun-21,122.1
+Bihar,East,22-Jul-21,231.5
+Bihar,East,21-Aug-21,287
+Bihar,East,20-Sep-21,101.7
+Bihar,East,20-Oct-21,10.4
+Bihar,East,19-Nov-21,0
+Bihar,East,19-Dec-21,0
+Uttarakhand,Central,19-Jan-21,54.5
+Uttarakhand,Central,18-Feb-21,62.6
+Uttarakhand,Central,20-Mar-21,127.3
+Uttarakhand,Central,19-Apr-21,57.3
+Uttarakhand,Central,19-May-21,38
+Uttarakhand,Central,18-Jun-21,186.6
+Uttarakhand,Central,18-Jul-21,337
+Uttarakhand,Central,17-Aug-21,305.3
+Uttarakhand,Central,16-Sep-21,52.6
+Uttarakhand,Central,16-Oct-21,16.8
+Uttarakhand,Central,15-Nov-21,2.4
+Uttarakhand,Central,15-Dec-21,7.2
+Haryana,North,23-Jan-21,12.4
+Haryana,North,22-Feb-21,6.6
+Haryana,North,24-Mar-21,71.8
+Haryana,North,23-Apr-21,34.8
+Haryana,North,23-May-21,8.4
+Haryana,North,22-Jun-21,43.7
+Haryana,North,22-Jul-21,130.3
+Haryana,North,21-Aug-21,89.2
+Haryana,North,20-Sep-21,32.1
+Haryana,North,20-Oct-21,3.7
+Haryana,North,19-Nov-21,2.3
+Haryana,North,19-Dec-21,0.2
+Punjab,North,19-Jan-21,17.7
+Punjab,North,18-Feb-21,31.3
+Punjab,North,20-Mar-21,68.5
+Punjab,North,19-Apr-21,29.8
+Punjab,North,19-May-21,16.7
+Punjab,North,18-Jun-21,48.3
+Punjab,North,18-Jul-21,130.2
+Punjab,North,17-Aug-21,88.6
+Punjab,North,16-Sep-21,69.2
+Punjab,North,16-Oct-21,9
+Punjab,North,15-Nov-21,0.8
+Punjab,North,15-Dec-21,0.7
+Himachal Pradesh,North,16-Jan-21,67.2
+Himachal Pradesh,North,15-Feb-21,156.6
+Himachal Pradesh,North,17-Mar-21,192.5
+Himachal Pradesh,North,16-Apr-21,84.9
+Himachal Pradesh,North,16-May-21,45
+Himachal Pradesh,North,15-Jun-21,85.8
+Himachal Pradesh,North,15-Jul-21,249.9
+Himachal Pradesh,North,14-Aug-21,195.9
+Himachal Pradesh,North,13-Sep-21,75.5
+Himachal Pradesh,North,13-Oct-21,17.7
+Himachal Pradesh,North,12-Nov-21,14.5
+Himachal Pradesh,North,12-Dec-21,25
+Jammu & kashmir,North,14-Jan-21,27.9
+Jammu & kashmir,North,13-Feb-21,187.2
+Jammu & kashmir,North,15-Mar-21,341.4
+Jammu & kashmir,North,14-Apr-21,173.3
+Jammu & kashmir,North,14-May-21,64.6
+Jammu & kashmir,North,13-Jun-21,121.4
+Jammu & kashmir,North,13-Jul-21,233.2
+Jammu & kashmir,North,12-Aug-21,129.2
+Jammu & kashmir,North,11-Sep-21,130.2
+Jammu & kashmir,North,11-Oct-21,87.1
+Jammu & kashmir,North,10-Nov-21,38.1
+Jammu & kashmir,North,10-Dec-21,39.3
+Uttar Pradesh,Central,9-Jan-21,61.6
+Uttar Pradesh,Central,8-Feb-21,11.3
+Uttar Pradesh,Central,10-Mar-21,115
+Uttar Pradesh,Central,9-Apr-21,44.2
+Uttar Pradesh,Central,9-May-21,16.7
+Uttar Pradesh,Central,8-Jun-21,167.3
+Uttar Pradesh,Central,8-Jul-21,373.2
+Uttar Pradesh,Central,7-Aug-21,319.3
+Uttar Pradesh,Central,6-Sep-21,48.4
+Uttar Pradesh,Central,6-Oct-21,18.7
+Uttar Pradesh,Central,5-Nov-21,2.5
+Uttar Pradesh,Central,5-Dec-21,7.9
+Rajasthan,North,16-Jan-21,13.5
+Rajasthan,North,15-Feb-21,1
+Rajasthan,North,17-Mar-21,86.2
+Rajasthan,North,16-Apr-21,41.1
+Rajasthan,North,16-May-21,19
+Rajasthan,North,15-Jun-21,149.6
+Rajasthan,North,15-Jul-21,532.2
+Rajasthan,North,14-Aug-21,203.3
+Rajasthan,North,13-Sep-21,55.8
+Rajasthan,North,13-Oct-21,6.1
+Rajasthan,North,12-Nov-21,0.6
+Rajasthan,North,12-Dec-21,0.8
+Gujarat,West,7-Jan-21,2.7
+Gujarat,West,6-Feb-21,0
+Gujarat,West,8-Mar-21,10.5
+Gujarat,West,7-Apr-21,7.6
+Gujarat,West,7-May-21,1.7
+Gujarat,West,6-Jun-21,233.3
+Gujarat,West,6-Jul-21,581.4
+Gujarat,West,5-Aug-21,48
+Gujarat,West,4-Sep-21,173.3
+Gujarat,West,4-Oct-21,5.5
+Gujarat,West,3-Nov-21,0.6
+Gujarat,West,3-Dec-21,0
+Madhya Pradesh,Central,10-Jan-21,77.5
+Madhya Pradesh,Central,9-Feb-21,17.4
+Madhya Pradesh,Central,11-Mar-21,126.9
+Madhya Pradesh,Central,10-Apr-21,39.1
+Madhya Pradesh,Central,10-May-21,8.3
+Madhya Pradesh,Central,9-Jun-21,293.3
+Madhya Pradesh,Central,9-Jul-21,690.4
+Madhya Pradesh,Central,8-Aug-21,548.7
+Madhya Pradesh,Central,7-Sep-21,127.2
+Madhya Pradesh,Central,7-Oct-21,49.2
+Madhya Pradesh,Central,6-Nov-21,1.5
+Madhya Pradesh,Central,6-Dec-21,1.9
+Goa,West,12-Jan-21,2.7
+Goa,West,11-Feb-21,0
+Goa,West,13-Mar-21,36.8
+Goa,West,12-Apr-21,3.6
+Goa,West,12-May-21,11.3
+Goa,West,11-Jun-21,764
+Goa,West,11-Jul-21,526.5
+Goa,West,10-Aug-21,377.3
+Goa,West,9-Sep-21,240.9
+Goa,West,9-Oct-21,91.4
+Goa,West,8-Nov-21,27.3
+Goa,West,8-Dec-21,0
+Manipur,North-East,10-Jan-21,10.1
+Manipur,North-East,9-Feb-21,1.6
+Manipur,North-East,11-Mar-21,32
+Manipur,North-East,10-Apr-21,39.6
+Manipur,North-East,10-May-21,12.3
+Manipur,North-East,9-Jun-21,118.3
+Manipur,North-East,9-Jul-21,27.4
+Manipur,North-East,8-Aug-21,112.2
+Manipur,North-East,7-Sep-21,154.3
+Manipur,North-East,7-Oct-21,19.5
+Manipur,North-East,6-Nov-21,4.8
+Manipur,North-East,6-Dec-21,0
+Meghalaya,North-East,16-Jan-21,26.3
+Meghalaya,North-East,15-Feb-21,4.7
+Meghalaya,North-East,17-Mar-21,66.3
+Meghalaya,North-East,16-Apr-21,28.1
+Meghalaya,North-East,16-May-21,12.8
+Meghalaya,North-East,15-Jun-21,254.6
+Meghalaya,North-East,15-Jul-21,137.2
+Meghalaya,North-East,14-Aug-21,288.9
+Meghalaya,North-East,13-Sep-21,167.5
+Meghalaya,North-East,13-Oct-21,7
+Meghalaya,North-East,12-Nov-21,0
+Meghalaya,North-East,12-Dec-21,0.2
+Chhattisgarh,Central,15-Jan-21,15.8
+Chhattisgarh,Central,14-Feb-21,1.2
+Chhattisgarh,Central,16-Mar-21,21.2
+Chhattisgarh,Central,15-Apr-21,37
+Chhattisgarh,Central,15-May-21,13
+Chhattisgarh,Central,14-Jun-21,257.6
+Chhattisgarh,Central,14-Jul-21,248.6
+Chhattisgarh,Central,13-Aug-21,286.6
+Chhattisgarh,Central,12-Sep-21,216.9
+Chhattisgarh,Central,12-Oct-21,17.7
+Chhattisgarh,Central,11-Nov-21,0.6
+Chhattisgarh,Central,11-Dec-21,1.5
+Andhra Pradesh,South,20-Jan-21,2
+Andhra Pradesh,South,19-Feb-21,0.6
+Andhra Pradesh,South,21-Mar-21,5.5
+Andhra Pradesh,South,20-Apr-21,32.3
+Andhra Pradesh,South,20-May-21,34.1
+Andhra Pradesh,South,19-Jun-21,283.8
+Andhra Pradesh,South,19-Jul-21,116
+Andhra Pradesh,South,18-Aug-21,192
+Andhra Pradesh,South,17-Sep-21,201.8
+Andhra Pradesh,South,17-Oct-21,59.7
+Andhra Pradesh,South,16-Nov-21,81.2
+Andhra Pradesh,South,16-Dec-21,2
+Telangana,South,11-Jan-21,17.5
+Telangana,South,10-Feb-21,0
+Telangana,South,12-Mar-21,43
+Telangana,South,11-Apr-21,65.7
+Telangana,South,11-May-21,23.3
+Telangana,South,10-Jun-21,266.9
+Telangana,South,10-Jul-21,104.4
+Telangana,South,9-Aug-21,160.5
+Telangana,South,8-Sep-21,158.3
+Telangana,South,8-Oct-21,15.6
+Telangana,South,7-Nov-21,0.3
+Telangana,South,7-Dec-21,1.7
+Tamil Nadu,South,9-Jan-21,8.3
+Tamil Nadu,South,8-Feb-21,2.3
+Tamil Nadu,South,10-Mar-21,21.7
+Tamil Nadu,South,9-Apr-21,108.8
+Tamil Nadu,South,9-May-21,112.4
+Tamil Nadu,South,8-Jun-21,62.4
+Tamil Nadu,South,8-Jul-21,43.5
+Tamil Nadu,South,7-Aug-21,81.6
+Tamil Nadu,South,6-Sep-21,98.4
+Tamil Nadu,South,6-Oct-21,132.6
+Tamil Nadu,South,5-Nov-21,379.8
+Tamil Nadu,South,5-Dec-21,152.8
+Kerala,South,3-Jan-21,3.1
+Kerala,South,2-Feb-21,5.8
+Kerala,South,4-Mar-21,50.1
+Kerala,South,3-Apr-21,214.1
+Kerala,South,3-May-21,201.8
+Kerala,South,2-Jun-21,563.6
+Kerala,South,2-Jul-21,406
+Kerala,South,1-Aug-21,252.2
+Kerala,South,1-Sep-21,292.9
+Kerala,South,1-Oct-21,308.1
+Kerala,South,1-Nov-21,223.6
+Kerala,South,1-Dec-21,79.4
+Karnataka,South,19-Jan-21,3.1
+Karnataka,South,18-Feb-21,1.2
+Karnataka,South,20-Mar-21,56.7
+Karnataka,South,19-Apr-21,152.7
+Karnataka,South,19-May-21,275.6
+Karnataka,South,18-Jun-21,954
+Karnataka,South,18-Jul-21,1042.9
+Karnataka,South,17-Aug-21,711.8
+Karnataka,South,16-Sep-21,424.8
+Karnataka,South,16-Oct-21,314.6
+Karnataka,South,15-Nov-21,262.3
+Karnataka,South,15-Dec-21,18.7
+Maharashtra,West,24-Jan-21,3.8
+Maharashtra,West,23-Feb-21,0.8
+Maharashtra,West,25-Mar-21,68.7
+Maharashtra,West,24-Apr-21,60.4
+Maharashtra,West,24-May-21,69.7
+Maharashtra,West,23-Jun-21,266.6
+Maharashtra,West,23-Jul-21,150.2
+Maharashtra,West,22-Aug-21,145.6
+Maharashtra,West,21-Sep-21,297.4
+Maharashtra,West,21-Oct-21,109.5
+Maharashtra,West,20-Nov-21,21.9
+Maharashtra,West,20-Dec-21,1.8
