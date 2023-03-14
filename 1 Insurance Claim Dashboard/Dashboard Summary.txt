@@ -1,0 +1,17 @@
+Dashboard Summary
+
+A. Dashboard Objective (Goal)        
+                Focus on Reduce Claim amount and Fraud Bifurcation
+  
+B. Use Cases (Problem Statements for Decision Making) 
+                Total Claim Bifurcation and tracking
+                 Reduce Claim amount by identify fraud claimers
+                 Claim Premium Decide by Age parameter
+
+C. Functionalities (Dashboard Features) 
+                Top claimer list as well Getting Policy details         
+                 Analyse, Evaluate and compare performance of different territories to granular level 
+                Time line performance tracking
+  
+D. Technical Aspects (Tool Techniques) 
+                Custom metric and dimension selection, parameters, actions, infographic tooltips, navigations, dual axis, maps. 
